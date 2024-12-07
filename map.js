@@ -5,5 +5,5 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 L.marker([-31.406753, -64.160639]).addTo(map)
-    .bindPopup('A pretty CSS popup.<br> Easily customizable.')
+    .bindPopup('Mejico 665  B°General Paz.<br> Cordoba. Arg')
     .openPopup();
