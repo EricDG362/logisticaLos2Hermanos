@@ -79,9 +79,9 @@ h4 {
 }
 
 .whatsapp-button img {
-    width: 60px;
+    width: 80px;
     /* Ajusta el tamaño de la imagen según lo desees */
-    height: 60px;
+    height: 80px;
     border-radius: 50%;
     /* Hace la imagen circular */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
